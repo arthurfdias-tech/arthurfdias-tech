@@ -1,7 +1,7 @@
 # Hi, I'm Arthur Fialho! 👋
 
 ## 🚀 About Me
-- 🎓 I'm a **Software Engineer student** currently looking for an internship.
+- 🎓 I'm a **Software Engineering student** currently looking for an internship.
 - 💻 My main focus is **solve hard problems** and use tech to drive market strategies.
 - 🌱 Currently learning more about **low-level programming**.
 
