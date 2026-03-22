@@ -13,5 +13,7 @@
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📌 Featured Project
+### [API Banco com Java Spring](https://github.com/arthurfdias-tech/api-banco-spring-boot.git)
+A RESTful API for a digital wallet simulation using Java and Spring boot.
 ### [Linked List Priority System](https://github.com/arthurfdias-tech/linked-list-priority-system.git)
 A customer service system implemented in C using dynamic linked lists and priority sorting.
